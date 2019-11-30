@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDO-List</string>
+    <string name="data_return">data_return</string>
+</resources>
